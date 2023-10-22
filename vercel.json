@@ -1,7 +1,4 @@
 {
-  "projectSettings": {
-    "name": "pp-journal"
-  },
   "version": 2,
   "builds": [
     {
