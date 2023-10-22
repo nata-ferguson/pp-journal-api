@@ -55,3 +55,7 @@ app.get("/prompts/random", async (req, res) => {
     res.status(500).send(err);
   }
 });
+
+app.get("/", (req, res) => {
+  res.send("Hello world");
+});
